@@ -5,7 +5,7 @@
 * _eventuale_ seconda data: giovedì 11 settembre ore 18:30
 * 500 crediti iniziali
 * asta a chiamata suddivisa per ruoli
-* * modalità mantra
+* modalità mantra
 
 ## Mercato di riparazione
 *
