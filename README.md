@@ -14,4 +14,6 @@
 * 20€ di quota a testa (quindi 240€ montepremi totale)
 
 ## Punteggi e bonus
-* 
+* modificatore difesa SI
+* player of the match SI
+* porta inviolata SI
